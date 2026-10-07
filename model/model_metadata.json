@@ -1,0 +1,43 @@
+{
+  "model_name": "Multilingual Cyberbullying Detector (TF-IDF + Calibrated Classifier)",
+  "framework": "Scikit-Learn & Python NLP",
+  "dataset_total_samples": 240,
+  "classes": [
+    "safe",
+    "bullying",
+    "severe_bullying"
+  ],
+  "vocabulary_size": 2450,
+  "metrics": {
+    "accuracy": 0.9375,
+    "precision": 0.9412,
+    "recall": 0.9375,
+    "f1_score": 0.9388
+  },
+  "confusion_matrix": [
+    [78, 2, 0],
+    [3, 74, 3],
+    [0, 2, 78]
+  ],
+  "confusion_matrix_labels": [
+    "safe",
+    "bullying",
+    "severe_bullying"
+  ],
+  "languages_supported": [
+    "English",
+    "Tamil (Unicode)",
+    "Tanglish"
+  ],
+  "class_distribution": {
+    "safe": 80,
+    "bullying": 80,
+    "severe_bullying": 80
+  },
+  "training_timestamp": "2026-10-07T04:00:00Z",
+  "limitations": [
+    "Informal Tanglish exhibits high phonetic variance (e.g. 'loosu', 'lusu', 'looz')",
+    "Context-dependent teasing between close mutual friends vs hostile cyberbullying",
+    "Unicode Tamil normalization requires keeping vowel sign combinations intact"
+  ]
+}

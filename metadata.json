@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Cyber Bullying Detection",
+  "description": "AI-powered real-time cyberbullying detection and comment moderation system with multilingual NLP supporting English, Tamil, and Tanglish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

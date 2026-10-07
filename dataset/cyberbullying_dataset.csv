@@ -1,0 +1,51 @@
+text,label,language,category
+"You are doing such amazing work on this project! Keep it up.",safe,English,neutral
+"Super proud of your presentation today!",safe,English,neutral
+"Great insights shared in this technical discussion.",safe,English,neutral
+"Welcome to the community, let us know if you need help.",safe,English,neutral
+"The AI architecture diagram looks really clean and well-structured.",safe,English,neutral
+"Thanks for explaining the TF-IDF vectorization so clearly.",safe,English,neutral
+"Good morning everyone, have a productive day ahead!",safe,English,neutral
+"This photo of the campus looks wonderful.",safe,English,neutral
+"Inspiring journey and very helpful career guidance.",safe,English,neutral
+"I agree with your point about ethical AI guidelines.",safe,English,neutral
+"இந்த பதிவு மிகவும் பயனுள்ளதாக உள்ளது, வாழ்த்துக்கள்!",safe,Tamil,neutral
+"அருமையான சிந்தனை மற்றும் சிறந்த விளக்கம்.",safe,Tamil,neutral
+"கல்லூரி திட்டத்திற்கு வாழ்த்துக்கள் நண்பா!",safe,Tamil,neutral
+"நன்றி சகோதரா, நல்ல யோசனை.",safe,Tamil,neutral
+"மிகவும் அருமையான புகைப்படம்.",safe,Tamil,neutral
+"semma project bro, all the best!",safe,Tanglish,neutral
+"romba nalla irukku indha explanation, thanks da.",safe,Tanglish,neutral
+"kalakuringa bro, super work!",safe,Tanglish,neutral
+"correct ah sonneenga, I totally agree with this.",safe,Tanglish,neutral
+"mass post bro, keep inspiring us!",safe,Tanglish,neutral
+"You are so stupid, nobody cares about your pathetic opinion.",bullying,English,insult
+"Why don't you just delete your account and disappear, loser?",bullying,English,harassment
+"Your face is disgusting, stop posting your hideous photos.",bullying,English,body_shaming
+"Everyone here hates you and laughs behind your back.",bullying,English,harassment
+"You have zero talent and you are a complete failure in life.",bullying,English,insult
+"Shut up you idiot, nobody asked for your dumb advice.",bullying,English,insult
+"You are ugly and worthless, go cry somewhere else.",bullying,English,harassment
+"Worst person ever, you deserve all the hate you get.",bullying,English,insult
+"Stop embarrassing yourself, you clown.",bullying,English,insult
+"You are a fake and a complete fraud, get lost.",bullying,English,insult
+"நீ ஒரு முட்டாள், உன் முகத்தை கண்ணாடியில் பார்த்தாயா?",bullying,Tamil,insult
+"உனக்கு மூளையே கிடையாது, எதற்கு இந்த தேவையில்லாத வேலை?",bullying,Tamil,insult
+"உன்னை பார்த்தாலே வெறுப்பாக இருக்கிறது, இங்கிருந்து ஓடிவிடு.",bullying,Tamil,harassment
+"கேவலமான பிறவி நீ, உன்னை யாரும் மதிக்க மாட்டார்கள்.",bullying,Tamil,insult
+"நீ ஒரு தகுதியற்றவன், வாயை மூடு.",bullying,Tamil,insult
+"un moonjiya mirror la paathurukkiya, dummy piece.",bullying,Tanglish,body_shaming
+"loosu maadhiri pesadha, mooditu po da.",bullying,Tanglish,insult
+"unakkulaam arive kidayadhu, useless fellow.",bullying,Tanglish,insult
+"neengalaam oru aala da, comedy pannadha waste body.",bullying,Tanglish,insult
+"mental hospital ku po da first, loosu payale.",bullying,Tanglish,insult
+"I will find where you live and beat you to death.",severe_bullying,English,threat
+"Go kill yourself right now, nobody would miss you.",severe_bullying,English,suicide_encouragement
+"You dirty scum, all people of your kind should be eliminated.",severe_bullying,English,hate_speech
+"Watch your back because you will not survive this week.",severe_bullying,English,threat
+"You disgusting creature, I will ruin your life completely.",severe_bullying,English,threat
+"உன்னை கொன்று புதைத்து விடுவேன், எச்சரிக்கையாக இரு.",severe_bullying,Tamil,threat
+"நீ உயிரோடு வாழவே தகுதியற்றவன், போய் செத்துப்போ.",severe_bullying,Tamil,suicide_encouragement
+"உன் குடும்பத்தையே அழித்து விடுவோம்.",severe_bullying,Tamil,threat
+"unnai kolla poren da, un address engaluku theriyum.",severe_bullying,Tanglish,threat
+"poi sethuru da naaye, nobody wants you here.",severe_bullying,Tanglish,suicide_encouragement
